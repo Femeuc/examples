@@ -1,5 +1,5 @@
 # Git Commands
-#### git config
+### git config
 #### Usage: git config –-global user.name “[name]”  
 git config --global user.name "john"
 #### Usage: git config –global user.email “[email address]”  
