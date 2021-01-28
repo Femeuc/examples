@@ -61,20 +61,20 @@ git checkout branch_2 (switch from one branch to another)
 ##### Usage: git checkout -b [branch name]  
 git checkout -b branch_3 (creates a new branch and switches to it)
 
-## git merge
-### Usage: git merge [branch name]  
+#### git merge
+##### Usage: git merge [branch name]  
 git merge branch_2 (merges the specified branch’s history into the current branch)
 
-## git remote
-### Usage: git remote add [variable name] [Remote Server Link]  
+#### git remote
+##### Usage: git remote add [variable name] [Remote Server Link]  
 git remote add origin https**.git
 
-## git push
-### Usage: git push [variable name] [branch name]
+#### git push
+##### Usage: git push [variable name] [branch name]
 git push origin master (sends the branch commits to your remote repository)
-### Usage: git push -–all [variable name]
+##### Usage: git push -–all [variable name]
 git push --all origin (pushes all branches to your remote repository)
 
-## git pull
-### Usage: git pull [Repository Link]  
+#### git pull
+##### Usage: git pull [Repository Link]  
 git pull https**.git
