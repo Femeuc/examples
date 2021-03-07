@@ -81,9 +81,9 @@ git pull https**.git
 
 ### Undo changes
 #### Unstaged local changes (before you commit)
-#####git stash 
+##### git stash 
 (Discard all local changes, but save them for possible re-use later)
-#####git checkout -- <file> 
+##### git checkout -- <file> 
 (Discarding local changes (permanently) to a file)
-#####git reset --hard
+##### git reset --hard
 (Discard all local changes to all files permanently)
